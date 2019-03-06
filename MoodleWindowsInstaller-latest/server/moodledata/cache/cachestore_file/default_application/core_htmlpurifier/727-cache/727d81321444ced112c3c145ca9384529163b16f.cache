@@ -1,0 +1,9 @@
+s:661:"<p>The scheduler activity helps you in scheduling appointments with your students.</p>
+
+<p>Teachers specify time slots for meetings, students then choose one of them on Moodle.
+Teachers in turn can record the outcome of the meeting - and optionally a grade - within the scheduler.</p>
+
+<p>Group scheduling is supported; that is, each time slot can accommodate several students, and optionally it is possible to schedule appointments for entire groups at the same time.</p>
+
+<div class="helpdoclink"><a href="http://docs.moodle.org/35/en/mod/scheduler/view" class="helplinkpopup"><i class="icon fa fa-info-circle fa-fw iconhelp icon-pre"></i>More help</a></div>
+";

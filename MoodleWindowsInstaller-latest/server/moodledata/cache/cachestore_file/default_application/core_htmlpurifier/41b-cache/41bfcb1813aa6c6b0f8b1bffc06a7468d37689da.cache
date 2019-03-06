@@ -1,0 +1,6 @@
+s:505:"<p>You can import sample reports from a public shared repository.</p>
+
+<p>Please, notice that there is a daily limit of calls to the repository.</p>
+
+<p>If the connection to the repository is not working, you can download manually here <a href="https://github.com/jleyva/moodle-configurable_reports_repository" target="_blank" rel="noreferrer noopener">https://github.com/jleyva/moodle-configurable_reports_repository</a> a report and then import it using the "Import report" feature displayed bellow</p>
+";
